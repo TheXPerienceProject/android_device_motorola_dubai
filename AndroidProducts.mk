@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_dubai.mk
+    $(LOCAL_DIR)/xperience_dubai.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_dubai-user \
-    arrow_dubai-userdebug \
-    arrow_dubai-eng
+    xperience_dubai-user \
+    xperience_dubai-userdebug \
+    xperience_dubai-eng
